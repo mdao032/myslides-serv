@@ -10,7 +10,7 @@
   "keywords": [
     "myslides-serv"
   ],
-  "author": "dao_mamadou",
+  "author": "mdao032",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
