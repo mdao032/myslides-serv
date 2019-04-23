@@ -4,7 +4,7 @@
   "description": "myslides server side",
   "main": "index.js",
   "scripts": {
-    "start": "node src/main.js",
+    "start": "nodemon src/main.js",
     "test": "test"
   },
   "keywords": [
@@ -13,6 +13,9 @@
   "author": "mdao032",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongodb": "^2.2.33",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.18.11"
   }
 }
